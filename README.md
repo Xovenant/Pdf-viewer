@@ -50,8 +50,7 @@ npm install
 
 
 ## Steps to create your own  concurrent vite and electron project
-# React + Vite
-This stack contains full out template code written by Merit Mohammed 
+# React + Vite 
 
 Using React + Vite and installing electron in this three steps with the help of tailwindcss
 
